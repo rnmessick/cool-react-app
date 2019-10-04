@@ -1,11 +1,20 @@
 ## Setup
-Create a new directory named cool-react-app to hold your work for today.
-Run create-react-app cool-react-app to create a basic React app in your directory.
+- Create a new directory named cool-react-app to hold your work for today.
+- Run create-react-app cool-react-app to create a basic React app in your directory.
 Ensure that you can run your React app locally.
-Connect your local repo to a new GitHub repo, and push your master branch.
-Install the @code-fellows/aws-tools from NPM
-Following the instructions, create a .env file and then generate an aws.yml file
+- Connect your local repo to a new GitHub repo, and push your master branch.
+- Install the @code-fellows/aws-tools from NPM
+- Following the instructions, create a .env file and then generate an aws.yml file
 
+```AWS_GITHUB_URL -- The URL to the repository at github containing your application
+AWS_GITHUB_REPO -- The raw name of your repository
+AWS_GITHUB_USER -- Your github login id
+AWS_GITHUB_TOKEN -- A developer token from your github account that grants 'repo' access
+AWS_APP -- Unique Name for your app at AWS
+AWS_BUILD -- Unique Name for your build at AWS
+AWS_BUCKET -- Unique Bucket Name where your website will be sourced at AWS
+AWS_PROJECT -- Unique Name for your project at AWS
+```
 
 On the AWS console, create a new CloudFormation stack named coolReactApp
 
