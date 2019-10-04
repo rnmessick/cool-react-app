@@ -1,3 +1,12 @@
+## Setup
+Create a new directory named cool-react-app to hold your work for today.
+Run create-react-app cool-react-app to create a basic React app in your directory.
+Ensure that you can run your React app locally.
+Connect your local repo to a new GitHub repo, and push your master branch.
+Install the @code-fellows/aws-tools from NPM
+Following the instructions, create a .env file and then generate an aws.yml file
+
+
 On the AWS console, create a new CloudFormation stack named coolReactApp
 
 Upload the cloud formation template you created during setup
