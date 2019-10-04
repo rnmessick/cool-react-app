@@ -1,6 +1,9 @@
 # Deployment Automation Lab
 Team: @Bomibear, Fabian Brooks, Joachen Busch, Travis Cox, Renee Messick
 
+[Deployment Troubleshooting]( https://github.com/rnmessick/cool-react-app/blob/master/otherReadmes/templateBugsFound.md)
+
+
 deployed site: 	d2kqvfz045wwvs.cloudfront.net
 ## Setup
 - Create a new directory named cool-react-app to hold your work for today.
