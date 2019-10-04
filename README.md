@@ -4,6 +4,7 @@
 Ensure that you can run your React app locally.
 - Connect your local repo to a new GitHub repo, and push your master branch.
 - Install the @code-fellows/aws-tools from NPM
+![npm install](resources/npmInstall.JPG)
 - Following the instructions, create a .env file and then generate an aws.yml file
 
 ```AWS_GITHUB_URL -- The URL to the repository at github containing your application
