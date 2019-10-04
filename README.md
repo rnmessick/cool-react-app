@@ -1,3 +1,6 @@
+Team: @Bomibear, Fabian Brooks, Joachen Busch, Travis Cox, Renee Messick
+
+deployed site: 	d2kqvfz045wwvs.cloudfront.net
 ## Setup
 - Create a new directory named cool-react-app to hold your work for today.
 - Run create-react-app cool-react-app to create a basic React app in your directory.
@@ -29,14 +32,6 @@ Add, commit, push, make a PR, merge the PR.
 
 See that your new code is automatically re-deployed and available at that URL
 ![npm install](resources/success.JPG)
-
-
-
-
-
-
-
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
