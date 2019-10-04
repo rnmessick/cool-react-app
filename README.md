@@ -18,52 +18,17 @@ AWS_PROJECT -- Unique Name for your project at AWS
 ```
 
 On the AWS console, create a new CloudFormation stack named coolReactApp
-
+![cloud stack 1](resources/step-1-template-1.JPG)
 Upload the cloud formation template you created during setup
-
+![build in progress](resources/BuildInProgress.JPG)
 Attempt to deploy that CloudFormation stack.
 
 Visit cloudfront, and view your React App via the public URL given to you.
-
+![success](resources/helloWorld.JPG)
 Add, commit, push, make a PR, merge the PR.
 
 See that your new code is automatically re-deployed and available at that URL
-
-
-
-
-
-
-
-
-
-
-
-
-By the end of the day, your README file should contain, for each buggy template:
-
-a description of the error message/failure state you saw when deploying the app
-a description of the bug that was causing that error message/failure state
-a description of the way that bug was resolved
-a link to either the commit or the PR with that fix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![npm install](resources/success.JPG)
 
 
 
